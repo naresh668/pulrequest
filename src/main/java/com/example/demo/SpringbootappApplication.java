@@ -8,6 +8,7 @@ public class SpringbootappApplication {
 	
 	
 	int k=300;
+	int conflict t=500;
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootappApplication.class, args);
